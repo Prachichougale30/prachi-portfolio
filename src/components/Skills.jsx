@@ -5,10 +5,8 @@ import {
   Database,
   Server,
   GitBranch,
-  Palette,
   Brain,
-  Terminal,
-  Cloud
+  Terminal
 } from "lucide-react";
 
 const Skills = () => {
